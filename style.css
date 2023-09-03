@@ -346,7 +346,6 @@ transition: background-color 0.3s ease;
     100% {
         transform: rotate(360deg);
     }
-}
 .footer {
     background-color: #888;
     color: #fff; 
@@ -356,4 +355,4 @@ transition: background-color 0.3s ease;
 
 .footer p {
     margin: 0;
-}
+}}
