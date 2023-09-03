@@ -347,17 +347,6 @@ font-size: 50px;
 font-weight: bold;
 color: #47dff3b1;
 transform-origin: center bottom;
-animation: rotateLetter 5s linear infinite; 
-}
-
-
-@keyframes rotateLetter {
-0% {
-transform: rotate(0deg);
-}
-100% {
-transform: rotate(360deg);
-}
 }
 .rotate-image {
     display: flex;
